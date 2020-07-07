@@ -2,8 +2,15 @@ header {
     background-color: aqua;
     padding-bottom: 20px;
     padding-top: 20px;
+    margin-left: 0px;
+
 }
 h1 {
     display: flex;
-    justify-content: center;
+    padding-left: 50px;
+}
+
+body {
+    margin:0;
+    padding:0;
 }
