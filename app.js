@@ -1,2 +1,2 @@
-console.log('hola tambien');
+console.log('Alerta consola');
 alert('Alerta');
