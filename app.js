@@ -1,2 +1,2 @@
 console.log('Alerta consola');
-alert('Alerta');
+alert('Alerta con descripción');
